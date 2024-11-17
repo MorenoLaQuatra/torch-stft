@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.com/pseeth/torch-stft.svg?branch=master)](https://travis-ci.com/pseeth/torch-stft)
+> [!NOTE]  
+> Fork of the original repo in [https://github.com/pseeth/torch-stft](https://github.com/pseeth/torch-stft). Basically fixed just some librosa changes in API.
 
 # STFT/iSTFT in PyTorch
 
